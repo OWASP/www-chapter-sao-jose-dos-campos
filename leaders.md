@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Diogenes Ramos](mailto:diogenes.ramos@owasp.org)
+* [Leonardo Toledo](mailto:leonardo.toledo@owasp.org)
