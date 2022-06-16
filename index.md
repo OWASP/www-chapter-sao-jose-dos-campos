@@ -14,7 +14,7 @@ Seja bem-vindo(a) a página da OWASP Chapter São José dos Campos!
 
 ![OWASP SJC](/assets/images/logo_owasp_sjc.png)
 
-A OWASP São José dos Campos é o primeiro Capítulo do [Vale do Paraiba](https://pt.wikipedia.org/wiki/Vale_do_Para%C3%ADba) entre os mais de 200 Capítulos ativo em todo o mundo. Entre os objetivos, estão:
+A OWASP São José dos Campos é o primeiro Capítulo do [Vale do Paraiba](https://pt.wikipedia.org/wiki/Vale_do_Para%C3%ADba) entre os mais de 200 Capítulos ativos em todo o mundo. Entre os objetivos, estão:
 
 * Disseminar a missão da fundação;
 * Fomentar a troca de conhecimento e experiências na área;
