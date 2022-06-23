@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP São José dos Campos
 tags: example-tag
 region: South America
-meetup-group:
+meetup-group: owasp-sao-jose-dos-campos-chapter
 
 ---
 
