@@ -1,3 +1,3 @@
 ### Leaders
 * [Diogenes Ramos](mailto:diogenes.ramos@owasp.org)
-* [Leonardo Toledo](mailto:leonardo.toledo@owasp.org)
+* [Leonardor Toledo](mailto:leonardor.toledo@owasp.org)
