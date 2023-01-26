@@ -10,9 +10,9 @@ meetup-group: owasp-sao-jose-dos-campos-chapter
 
 # Seja bem-vindo(a)!
 
-Seja bem-vindo(a) a página da OWASP Chapter São José dos Campos!
+Seja bem-vindo(a) a página da **OWASP Chapter São José dos Campos!**
 
-![OWASP SJC](/assets/images/logo_owasp_sjc.png)
+![OWASP SJC](/assets/images/OWASP_logo.png)
 
 A OWASP São José dos Campos é o primeiro Capítulo do [Vale do Paraiba](https://pt.wikipedia.org/wiki/Vale_do_Para%C3%ADba) entre os mais de 200 Capítulos ativos em todo o mundo. Entre os objetivos, estão:
 
