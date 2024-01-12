@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP São José dos Campos
 tags: chapter-sjc
 region: South America
+country: Brazil
 meetup-group: owasp-sao-jose-dos-campos-chapter
 
 ---
