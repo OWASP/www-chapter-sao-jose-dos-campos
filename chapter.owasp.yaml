@@ -1,0 +1,23 @@
+leaders:
+  - name: Diogenes Ramos
+    email: diogenes.ramos@owasp.org
+  - name: Leonardor Toledo
+    email: leonardor.toledo@owasp.org
+location:
+  country: Brazil
+  country_code: BR
+  region: São Paulo
+  city: São José dos Campos
+  latitude: -23.1867782
+  longitude: -45.8854538
+meetup_group: owasp-sao-jose-dos-campos-chapter
+name: OWASP São José dos Campos
+repositories:
+  - name: www-chapter-sao-jose-dos-campos
+    url: https://github.com/OWASP/www-chapter-sao-jose-dos-campos
+    description: OWASP Foundation Web Repository
+tags:
+  - chapter-sjc
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-sao-jose-dos-campos
