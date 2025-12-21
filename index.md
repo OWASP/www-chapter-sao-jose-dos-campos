@@ -25,7 +25,7 @@ Esperamos realizar um trabalho agregador para a comunidade de Segurança da Info
 
 ## Participação
 
-O Open Web Application Security Project (OWASP) é uma fundação sem fins lucrativos que trabalha para melhorar a segurança do software. Todos os nossos projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança de aplicativos.
+O Open Worldwide Application Security Project (OWASP) é uma fundação sem fins lucrativos que trabalha para melhorar a segurança do software. Todos os nossos projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança de aplicativos.
 
 
 ## Próximos Eventos
